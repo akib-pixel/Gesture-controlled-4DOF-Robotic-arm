@@ -53,10 +53,6 @@ This project features a gesture-controlled robotic arm using Arduino Uno and Med
 
 ## Contributing
 Feel free to contribute by submitting issues or pull requests.
-
-## License
-This project is licensed under the MIT License.
-
 ---
 
 **Developer:** Mahbub Al Hasan Akib  
